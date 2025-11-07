@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env
+.venv
+venv/
+env/
+ENV/
+pip-log.txt
+*.sqlite3
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Byte-compiled / temp
+*.log
+*.tmp
+*.swp
